@@ -37,6 +37,7 @@ extension CartViewModel: CartViewModelType {
     }
     
     func updateCartItemsArray(for item: MenuItem, with value: Int) {
+        print("this metod multipies values in cart")
         for i in items {
             if i.menuItem == item {
                 i.quantity = Int16(value)
