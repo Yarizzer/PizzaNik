@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>priority</key>
+		<integer>0</integer>
+		<key>discription</key>
+		<string>Тут вся пицца</string>
+		<key>imageName</key>
+		<string>PizzaMenuImage</string>
+		<key>name</key>
+		<string>Пицца</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>1</integer>
+		<key>discription</key>
+		<string>Тут все салаты</string>
+		<key>imageName</key>
+		<string>SaladMenuImage</string>
+		<key>name</key>
+		<string>Салаты</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>2</integer>
+		<key>discription</key>
+		<string>Тут горячие блюда</string>
+		<key>imageName</key>
+		<string>HotDishesMenuImage</string>
+		<key>name</key>
+		<string>Горячее</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>3</integer>
+		<key>discription</key>
+		<string>Тут соусы</string>
+		<key>imageName</key>
+		<string>SaucesMenuImage</string>
+		<key>name</key>
+		<string>Соусы</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>4</integer>
+		<key>discription</key>
+		<string>Тут хлеб</string>
+		<key>imageName</key>
+		<string>BreadMenuImage</string>
+		<key>name</key>
+		<string>Хлебобулочные изделия</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>5</integer>
+		<key>discription</key>
+		<string>Тут сладкая пицца</string>
+		<key>imageName</key>
+		<string>SweetPizzaMenuImage</string>
+		<key>name</key>
+		<string>Сладкая пицца</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>6</integer>
+		<key>discription</key>
+		<string>Тут мороженое</string>
+		<key>imageName</key>
+		<string>IcecreamMenuImage</string>
+		<key>name</key>
+		<string>Мороженое</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>7</integer>
+		<key>discription</key>
+		<string>Тут напитки</string>
+		<key>imageName</key>
+		<string>DrinkMenuImage</string>
+		<key>name</key>
+		<string>Соки и напитки</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>8</integer>
+		<key>discription</key>
+		<string>Тут фреши</string>
+		<key>imageName</key>
+		<string>FreshMenuImage</string>
+		<key>name</key>
+		<string>Фреши</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<integer>9</integer>
+		<key>discription</key>
+		<string>Остальное</string>
+		<key>imageName</key>
+		<string>StuffMenuImage</string>
+		<key>name</key>
+		<string>Разное</string>
+	</dict>
+</array>
+</plist>

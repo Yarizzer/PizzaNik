@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Cart" representedClassName="Cart" syncable="YES">
+        <attribute name="order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="menuItem" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MenuItem" inverseName="cart" inverseEntity="MenuItem" syncable="YES"/>
+    </entity>
+    <entity name="MainMenuItem" representedClassName="MainMenuItem" syncable="YES">
+        <attribute name="discription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="priority" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="menuItem" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="MenuItem" inverseName="mainMenuItems" inverseEntity="MenuItem" syncable="YES"/>
+    </entity>
+    <entity name="MenuItem" representedClassName="MenuItem" syncable="YES">
+        <attribute name="ingredients" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="itemDiscription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="itemImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="itemName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="itemPrice" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="itemPriority" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="searchTags" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="cart" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Cart" inverseName="menuItem" inverseEntity="Cart" syncable="YES"/>
+        <relationship name="mainMenuItems" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MainMenuItem" inverseName="menuItem" inverseEntity="MainMenuItem" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Cart" positionX="297" positionY="-1" width="128" height="88"/>
+        <element name="MainMenuItem" positionX="-162" positionY="-54" width="128" height="120"/>
+        <element name="MenuItem" positionX="72" positionY="-78" width="128" height="180"/>
+    </elements>
+</model>

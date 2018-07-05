@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Ник#Острый соус#сосиски#сыр#зелень#135</string>
+		<key>ingredients</key>
+		<array>
+			<string>Сосиски</string>
+			<string>Сыр</string>
+			<string>Острый соус</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Ник</string>
+		<key>imageName</key>
+		<string>Pizza_Nik</string>
+		<key>disription</key>
+		<string>Острый соус, сосиски, сыр, зелень</string>
+		<key>price</key>
+		<integer>135</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Пикантная#Лук#пассерованный#майонез#ветчина#помидоры#сыр#зелень#чеснок#гранулированный#155</string>
+		<key>ingredients</key>
+		<array>
+			<string>Ветчина</string>
+			<string>Сыр</string>
+			<string>Чеснок гранулированный</string>
+			<string>Помидоры</string>
+			<string>Зелень</string>
+			<string>Майонез</string>
+			<string>Лук пассерованный</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Пикантная</string>
+		<key>imageName</key>
+		<string>Pizza_Picantnaya</string>
+		<key>disription</key>
+		<string>Лук пассерованный, майонез, ветчина, помидоры, сыр, зелень, чеснок гранулированный</string>
+		<key>price</key>
+		<integer>155</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##С бужениной#Соус#классический#буженина#копчено-вареная#сыр#зелень#150</string>
+		<key>ingredients</key>
+		<array>
+			<string>Буженина копчено-вареная</string>
+			<string>Сыр</string>
+			<string>Соус классический</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>С бужениной</string>
+		<key>imageName</key>
+		<string>Pizza_SBuzheninoy</string>
+		<key>disription</key>
+		<string>Соус классический, буженина копчено-вареная, сыр, зелень</string>
+		<key>price</key>
+		<integer>150</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##С деликатесами#Шейка#копчено-вареная#майонез#помидоры#сыр#лук#пассерованный#зелень#чеснок#гранулированный#140</string>
+		<key>ingredients</key>
+		<array>
+			<string>Шейка копчено-вареная</string>
+			<string>Сыр</string>
+			<string>Помидоры</string>
+			<string>Чеснок гранулированный</string>
+			<string>Лук пассерованный</string>
+			<string>Майонез</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>С деликатесами</string>
+		<key>imageName</key>
+		<string>Pizza_SDelicatesami</string>
+		<key>disription</key>
+		<string>Шейка копчено-вареная, майонез, помидоры, сыр, лук пассерованный, зелень, чеснок гранулированный</string>
+		<key>price</key>
+		<integer>140</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Пастушка#Деликатес#говядина#копчено-вареная#огурцы#маринованные#сыр#томатная#паста#майонез#чеснок#гранулированный#масло#рафинированное#приправа для пиццы#зелень#150</string>
+		<key>ingredients</key>
+		<array>
+			<string>Деликатес-говядина копчено-вареная</string>
+			<string>Огурцы маринованные</string>
+			<string>Сыр</string>
+			<string>Томатная паста</string>
+			<string>Майонез</string>
+			<string>Чеснок гранулированный</string>
+			<string>Масло рафинированное</string>
+			<string>Приправа для пиццы</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Пастушка</string>
+		<key>imageName</key>
+		<string>Pizza_Pastushka</string>
+		<key>disription</key>
+		<string>Деликатес-говядина копчено-вареная, огурцы маринованные, сыр, томатная паста, майонез, чеснок гранулированный, масло рафинированное, приправа для пиццы, зелень</string>
+		<key>price</key>
+		<integer>150</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Пеппер#Колбаса#украинская#жареная#перец#свежий#томатная#паста#приправа для пиццы#сыр,#зелень#155</string>
+		<key>ingredients</key>
+		<array>
+			<string>Колбаса украинская жареная</string>
+			<string>Перец свежий</string>
+			<string>Томатная паста</string>
+			<string>Приправа для пиццы</string>
+			<string>Сыр</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Пеппер</string>
+		<key>imageName</key>
+		<string>Pizza_Pepper</string>
+		<key>disription</key>
+		<string>Колбаса украинская жареная, перец свежий, томатная паста, приправа для пиццы, сыр, зелень</string>
+		<key>price</key>
+		<integer>155</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Калорийная#Шампиньоны#жареные#п/к#колбаса#лук#пассерованный#майонез#сыр#зелень#чеснок#гранулированный#165</string>
+		<key>ingredients</key>
+		<array>
+			<string>Колбаса п/к</string>
+			<string>Сыр</string>
+			<string>Шампиньоны жареные</string>
+			<string>Майонез</string>
+			<string>Чеснок гранулированный</string>
+			<string>Лук пассерованный</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>6</integer>
+		<key>name</key>
+		<string>Калорийная</string>
+		<key>imageName</key>
+		<string>Pizza_Calorijnaya</string>
+		<key>disription</key>
+		<string>Шампиньоны жареные, п/к колбаса, лук пассерованный, майонез, сыр, зелень, чеснок гранулированный</string>
+		<key>price</key>
+		<integer>165</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Грибная#Шампиньоны#жареные#майонез#зелень#сыр#лук#пассерованный#чеснок#гранулированный#170</string>
+		<key>ingredients</key>
+		<array>
+			<string>Сыр</string>
+			<string>Шампиньоны жареные</string>
+			<string>Майонез</string>
+			<string>Чеснок гранулированный</string>
+			<string>Лук пассерованный</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>7</integer>
+		<key>name</key>
+		<string>Грибная</string>
+		<key>imageName</key>
+		<string>Pizza_Gribnaya</string>
+		<key>disription</key>
+		<string>Шампиньоны жареные, майонез, зелень, сыр, лук пассерованный, чеснок гранулированный</string>
+		<key>price</key>
+		<integer>170</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Морской замок##Морской##замок#Майонез#сыр#горбуша#консервированная#крабовые#изделия#лук#пассерованный#зелень#чеснок#гранулированный#125</string>
+		<key>ingredients</key>
+		<array>
+			<string>Крабовые изделия</string>
+			<string>Сыр</string>
+			<string>Горбуша консервированная</string>
+			<string>Майонез</string>
+			<string>Чеснок гранулированный</string>
+			<string>Лук пассерованный</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>8</integer>
+		<key>name</key>
+		<string>Морской замок</string>
+		<key>imageName</key>
+		<string>Pizza_MorskoyZamok</string>
+		<key>disription</key>
+		<string>Майонез, сыр, горбуша консервированная, крабовые изделия, лук пассерованный, зелень, чеснок гранулированный</string>
+		<key>price</key>
+		<integer>125</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Монах#Грудинка#копчено-вареная#лук#пассерованный#томатная#паста#помидоры#сыр#зелень#приправа для пиццы#145</string>
+		<key>ingredients</key>
+		<array>
+			<string>Грудинка копчено-вареная</string>
+			<string>Лук пассерованный</string>
+			<string>Томатная паста</string>
+			<string>Помидоры</string>
+			<string>Сыр</string>
+			<string>Зелень</string>
+			<string>Приправа для пиццы</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>9</integer>
+		<key>name</key>
+		<string>Монах</string>
+		<key>imageName</key>
+		<string>PIzza_Monah</string>
+		<key>disription</key>
+		<string>Грудинка копчено-вареная, лук пассерованный, томатная паста, помидоры, сыр, зелень, приправа для пиццы</string>
+		<key>price</key>
+		<integer>145</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Броккури#Томаная#паста#приправа для пиццы#помидоры#брокколи#куриный#рулет#сыр#зелень#145</string>
+		<key>ingredients</key>
+		<array>
+			<string>Томатная паста</string>
+			<string>Приправа для пиццы</string>
+			<string>Помидоры</string>
+			<string>Брокколи</string>
+			<string>Куриный рулет</string>
+			<string>Сыр</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Броккури</string>
+		<key>imageName</key>
+		<string>Pizza_Brokkuri</string>
+		<key>disription</key>
+		<string>Томаная паста, приправа для пиццы, помидоры, брокколи, куриный рулет, сыр, зелень</string>
+		<key>price</key>
+		<integer>145</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Клуша#Куриный#рулет#соус &quot;Клуша&quot;#сыр#зелень#140</string>
+		<key>ingredients</key>
+		<array>
+			<string>Куриный рулет</string>
+			<string>Соус &quot;Клуша&quot;</string>
+			<string>Сыр</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>11</integer>
+		<key>name</key>
+		<string>Клуша</string>
+		<key>imageName</key>
+		<string>PIzza_Klusha</string>
+		<key>disription</key>
+		<string>Куриный рулет, соус &quot;Клуша&quot;, сыр, зелень</string>
+		<key>price</key>
+		<integer>140</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Вегетарианская#Лук#пассерованный#сыр#перец#сладкий#маслины#томаты#майонез#зелень#чеснок#гранулированный#130</string>
+		<key>ingredients</key>
+		<array>
+			<string>Лук пассерованный</string>
+			<string>Сыр</string>
+			<string>Перец сладкий</string>
+			<string>Маслины</string>
+			<string>Томаты</string>
+			<string>Майонез</string>
+			<string>Зелень</string>
+			<string>Чеснок гранулированный</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>12</integer>
+		<key>name</key>
+		<string>Вегетарианская</string>
+		<key>imageName</key>
+		<string>Pizza_Vegitarianskaya</string>
+		<key>disription</key>
+		<string>Лук пассерованный, сыр, перец сладкий, маслины, томаты, майонез, зелень, чеснок гранулированный</string>
+		<key>price</key>
+		<integer>130</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Каприз#Соус#класический#куриный#рулет#ананасы#консервированые#маслины#сыр#зелень#145</string>
+		<key>ingredients</key>
+		<array>
+			<string>Соус класический</string>
+			<string>Куриный рулет</string>
+			<string>Ананасы консервированые</string>
+			<string>Маслины</string>
+			<string>Сыр</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>13</integer>
+		<key>name</key>
+		<string>Каприз</string>
+		<key>imageName</key>
+		<string>Pizza_Kapriz</string>
+		<key>disription</key>
+		<string>Соус класический, куриный рулет, ананасы консервированые, маслины, сыр, зелень</string>
+		<key>price</key>
+		<integer>145</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Пицца##Маргарита#Соус#класический#сыр#зелень#100</string>
+		<key>ingredients</key>
+		<array>
+			<string>Соус класический</string>
+			<string>Сыр</string>
+			<string>Зелень</string>
+		</array>
+		<key>parentId</key>
+		<integer>0</integer>
+		<key>priority</key>
+		<integer>14</integer>
+		<key>name</key>
+		<string>Маргарита</string>
+		<key>imageName</key>
+		<string>Pizza_Nik</string>
+		<key>disription</key>
+		<string>Соус классический, сыр, зелень</string>
+		<key>price</key>
+		<integer>100</integer>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Салат##Салат-коктейль «Марго»##коктейль##Марго#сыр#ветчина#огурцы#свежие#маслины#зелёный#горошек#соус#майонезный#зелень#70</string>
+		<key>price</key>
+		<integer>70</integer>
+		<key>disription</key>
+		<string>сыр, ветчина, огурцы свежие, маслины, зелёный горошек, соус майонезный, зелень</string>
+		<key>imageName</key>
+		<string>Salad_Margo</string>
+		<key>name</key>
+		<string>Салат-коктейль «Марго»</string>
+		<key>priority</key>
+		<integer>0</integer>
+		<key>parentId</key>
+		<integer>1</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Зелень</string>
+			<string>Соус майонезный</string>
+			<string>Зелёный горошек</string>
+			<string>Сыр</string>
+			<string>Ветчина</string>
+			<string>Огурцы свежие</string>
+			<string>Маслины</string>
+		</array>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Салат##Салат «Колдунья»##Колдунья#огурцы#свежие#томаты#маслины#куриный#рулет#сыр#соус#майонезный#зелень#95</string>
+		<key>price</key>
+		<integer>95</integer>
+		<key>disription</key>
+		<string>огурцы свежие, томаты, маслины, куриный рулет, сыр, соус майонезный, зелень</string>
+		<key>imageName</key>
+		<string>Salad_Koldunjya</string>
+		<key>name</key>
+		<string>Салат «Колдунья»</string>
+		<key>priority</key>
+		<integer>1</integer>
+		<key>parentId</key>
+		<integer>1</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Огурцы свежие</string>
+			<string>Томаты</string>
+			<string>Маслины</string>
+			<string>Куриный рулет</string>
+			<string>Сыр</string>
+			<string>Соус майонезный</string>
+			<string>Зелень</string>
+		</array>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Салат##Салат «Экзотика»##Экзотика#киви#апельсин#бананы#груши#виноград#йогурт</string>
+		<key>price</key>
+		<integer>70</integer>
+		<key>disription</key>
+		<string>киви, апельсин, бананы, груши, виноград, йогурт</string>
+		<key>imageName</key>
+		<string>Salad_Eczotica</string>
+		<key>name</key>
+		<string>Салат «Экзотика»</string>
+		<key>priority</key>
+		<integer>2</integer>
+		<key>parentId</key>
+		<integer>1</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Киви</string>
+			<string>Апельсин</string>
+			<string>Бананы</string>
+			<string>Груши</string>
+			<string>Виноград</string>
+			<string>Йогурт</string>
+		</array>
+	</dict>
+	<dict>
+		<key>searchTags</key>
+		<string>###Салат##Салат «Пикантный»##Пикантный#колбаса#п/к#ветчина#огурцы#консервированные#сыр#лук#красный#соус#майонезный#зелень</string>
+		<key>price</key>
+		<integer>85</integer>
+		<key>disription</key>
+		<string>колбаса п/к, ветчина, огурцы консервированные, сыр, лук красный, соус майонезный, зелень</string>
+		<key>imageName</key>
+		<string>Salad_Picantny</string>
+		<key>name</key>
+		<string>Салат «Пикантный»</string>
+		<key>priority</key>
+		<integer>3</integer>
+		<key>parentId</key>
+		<integer>1</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Колбаса п/к</string>
+			<string>Ветчина</string>
+			<string>Огурцы консервированные</string>
+			<string>Сыр</string>
+			<string>Лук красный</string>
+			<string>Соус майонезный</string>
+			<string>Зелень</string>
+		</array>
+	</dict>
+</array>
+</plist>
